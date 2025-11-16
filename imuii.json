@@ -1,0 +1,11 @@
+{
+  "name": "DaffaTestingWeb",
+  "framework": "react",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "daffffffffffa",
+  "email": "22523184@students.uii.ac.id",
+  "secretKey": "imuii_4d4e4ce3b5e10aec2cee791ac8621d6e341dff0a4b21cd5bc45465333ef4b7f5",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/daffffffffffa-c12ccaa6.git"
+}
